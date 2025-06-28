@@ -13,7 +13,7 @@
  🔨 Projects
 
 - **Human Face Generator (DCGAN)** – Generate realistic human faces from noise.
-- **Heart Disease Prediction** – Predict cardiovascular disease from patient data.
+- **News Research Tool** – AI tool for researching news articles.
 - **Business Analysis Dashboard** – Visualized company insights using Tableau.
 
  📫 How to reach me
